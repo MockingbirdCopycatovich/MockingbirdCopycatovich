@@ -34,7 +34,7 @@
 
 ## 🌐 Web Projects
 
-💎 **[Treasure-Hunt-Game](https://github.com/MockingbirdCopycatovich/Treasure-Hunt-Game)**  
+💎 **[Treasure-Hunt-Web-app](https://github.com/MockingbirdCopycatovich/Treasure-Hunt-Web-app)**  
 🌐 HTML · CSS · JavaScript · API  
 🚧 Temporarily unavailable · Private until 31.03.2026
 
