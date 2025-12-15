@@ -9,7 +9,7 @@
 ## 🎮 PROJECT FILTERS
 - [🐍 Python](#-python-projects)
 - [🌐 Web](#-web-projects)
-- [⚙️ C++](#-c-projects)
+- [⚙️ C++](#-cpp-projects)
 - [📦 View all repositories](https://github.com/YOUR_USERNAME?tab=repositories)
 
 ---
@@ -44,7 +44,7 @@
 
 ---
 
-## ⚙️ C Projects
+## ⚙️ CPP Projects
 
 🌐 **[Spheres.io](https://github.com/YOUR_USERNAME/Spheres.io)**  
 ⚙️ C++ · TL-Engine  
