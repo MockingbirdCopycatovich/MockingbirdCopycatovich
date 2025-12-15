@@ -1,8 +1,8 @@
-# 🎮 Hi, I'm <YOUR_NAME>
+# 🎮 Hi, I'm Vlad
 
-🕹 Game-style GitHub Portfolio  
-💻 Developer focused on Python, Web & C++  
-🎯 Exploring programming through games and interactive projects
+🕹 Code like a game  
+🎮 Game mechanics, logic puzzles & experiments  
+🧪 Learning by doing, breaking and fixing
 
 ---
 
@@ -10,7 +10,7 @@
 - [🐍 Python](#-python-projects)
 - [🌐 Web](#-web-projects)
 - [⚙️ C++](#-cpp-projects)
-- [📦 View all repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+- [📦 View all repositories](https://github.com/MockingbirdCopycatovich?tab=repositories)
 
 ---
 
@@ -22,37 +22,37 @@
 
 ## 🐍 Python Projects
 
-🕹 **[Arcanoid](https://github.com/YOUR_USERNAME/Arcanoid)**  
+🕹 **[Arcanoid](https://github.com/MockingbirdCopycatovich/Arcanoid)**  
 🎮 Python · Tkinter  
-🚧 Temporarily unavailable · Private until XX.XX.2025  
+✅ Available   
 
-🦖 **[Dino-Run](https://github.com/YOUR_USERNAME/Dino-Run)**  
+🦖 **[Dino-Run](https://github.com/MockingbirdCopycatovich/Dino-Run)**  
 🎮 Python · Tkinter  
-🚧 Temporarily unavailable · Private until XX.XX.2025  
+✅ Available 
 
 ---
 
 ## 🌐 Web Projects
 
-💎 **[Treasure-Hunt-Game](https://github.com/YOUR_USERNAME/Treasure-Hunt-Game)**  
+💎 **[Treasure-Hunt-Game](https://github.com/MockingbirdCopycatovich/Treasure-Hunt-Game)**  
 🌐 HTML · CSS · JavaScript · API  
-✅ Available  
+🚧 Temporarily unavailable · Private until 31.03.2026
 
-🛒 **[UCLan-Shop](https://github.com/YOUR_USERNAME/UCLan-Shop)**  
+🛒 **[UCLan-Shop](https://github.com/MockingbirdCopycatovich/UCLan-Shop)**  
 🌐 HTML · CSS · JavaScript  
-✅ Available  
+🚧 Temporarily unavailable · Private until 17.12.2025
 
 ---
 
 ## ⚙️ CPP Projects
 
-🌐 **[Spheres.io](https://github.com/YOUR_USERNAME/Spheres.io)**  
+🌐 **[Spheres.io](https://github.com/MockingbirdCopycatovich/Spheres.io)**  
 ⚙️ C++ · TL-Engine  
-✅ Available  
+🚧 Temporarily unavailable · Private until 09.01.2026 
 
-🧩 **[Sudoku-Puzzle-Solver](https://github.com/YOUR_USERNAME/Sudoku-Puzzle-Solver)**  
+🧩 **[Sudoku-Puzzle-Solver](https://github.com/MockingbirdCopycatovich/Sudoku-Puzzle-Solver)**  
 ⚙️ C++  
-✅ Available  
+🚧 Temporarily unavailable · Private until 27.03.2026 
 
 ---
 
@@ -64,6 +64,6 @@
 
 ---
 
-🏆 **Current level:** Junior Developer  
-🕒 **Playtime:** since 202X  
-🚀 **Next quest:** Improve architecture & performance
+🏆 Status: Learning & experimenting  
+🧠 Interests: Games, logic, ML  
+🚀 Looking for: Internship / junior role
