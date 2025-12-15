@@ -7,9 +7,9 @@
 ---
 
 ## 🎮 PROJECT FILTERS
-- [🐍 Python](#-python)
-- [🌐 Web](#-web)
-- [⚙️ C++](#-cc)
+- [🐍 Python](#python)
+- [🌐 Web](#web)
+- [⚙️ C++](#cc)
 - [📦 View all repositories](https://github.com/MockingbirdCopycatovich?tab=repositories)
 
 ---
@@ -20,7 +20,7 @@
 
 ---
 
-## 🐍 Python Projects
+## Python
 
 🕹 **[Arcanoid](https://github.com/MockingbirdCopycatovich/Arcanoid)**  
 🎮 Python · Tkinter  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🌐 Web Projects
+## Web
 
 💎 **[Treasure-Hunt-Web-app](https://github.com/MockingbirdCopycatovich/Treasure-Hunt-Web-app)**  
 🌐 HTML · CSS · JavaScript · API  
@@ -44,7 +44,7 @@
 
 ---
 
-## ⚙️ C/C++
+## C/C++
 
 🌐 **[Spheres.io](https://github.com/MockingbirdCopycatovich/Spheres.io)**  
 ⚙️ C++ · TL-Engine  
