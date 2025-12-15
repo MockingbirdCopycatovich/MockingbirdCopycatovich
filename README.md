@@ -9,7 +9,7 @@
 ## 🎮 PROJECT FILTERS
 - [🐍 Python](#-python-projects)
 - [🌐 Web](#-web-projects)
-- [⚙️ C++](#-c-projects)
+- [⚙️ C++](#-c++-projects)
 - [📦 View all repositories](https://github.com/YOUR_USERNAME?tab=repositories)
 
 ---
