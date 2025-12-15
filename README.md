@@ -7,9 +7,9 @@
 ---
 
 ## 🎮 PROJECT FILTERS
-- [🐍 Python](#-python-projects)
-- [🌐 Web](#-web-projects)
-- [⚙️ C++](#-cpp-projects)
+- [🐍 Python](#-python)
+- [🌐 Web](#-web)
+- [⚙️ C++](#-cc)
 - [📦 View all repositories](https://github.com/MockingbirdCopycatovich?tab=repositories)
 
 ---
@@ -44,7 +44,7 @@
 
 ---
 
-## ⚙️ CPP Projects
+## ⚙️ C/C++
 
 🌐 **[Spheres.io](https://github.com/MockingbirdCopycatovich/Spheres.io)**  
 ⚙️ C++ · TL-Engine  
