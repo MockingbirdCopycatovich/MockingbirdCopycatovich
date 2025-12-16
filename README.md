@@ -14,7 +14,7 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-Game_Dev-blue)
+![Python](https://img.shields.io/badge/Python-Back_End-blue)
 ![C++](https://img.shields.io/badge/C++-Core_Logic-orange)
 ![Web](https://img.shields.io/badge/Web-JS%2FHTML%2FCSS-green)
 
