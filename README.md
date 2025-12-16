@@ -40,7 +40,7 @@
 
 🛒 **[UCLan-Shop](https://github.com/MockingbirdCopycatovich/UCLan-Shop)**  
 🌐 HTML · CSS · JavaScript  
-🚧 Temporarily unavailable · Private until 17.12.2025
+✅ Available
 
 ---
 
