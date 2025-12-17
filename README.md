@@ -46,13 +46,14 @@
 
 ## C/C++
 
-🌐 **[Spheres.io](https://github.com/MockingbirdCopycatovich/Spheres.io)**  
-⚙️ C++ · TL-Engine  
-🚧 Temporarily unavailable · Private until 09.01.2026 
 
 🧩 **[Sudoku-Puzzle-Solver](https://github.com/MockingbirdCopycatovich/Sudoku-Puzzle-Solver)**  
 ⚙️ C++  
 🚧 Temporarily unavailable · Private until 27.03.2026 
+
+🌐 **[Spheres.io](https://github.com/MockingbirdCopycatovich/Spheres.io)**  
+⚙️ C++ · TL-Engine  
+🚧 Temporarily unavailable · Private until 09.01.2026 
 
 ---
 
