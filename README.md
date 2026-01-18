@@ -57,7 +57,7 @@
 
 🌐 **[Spheres.io](https://github.com/MockingbirdCopycatovich/Spheres.io)**  
 ⚙️ C++ · TL-Engine  
-🚧 Temporarily unavailable · Private until 09.01.2026 
+✅ Available 
 
 ---
 
