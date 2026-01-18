@@ -1,7 +1,5 @@
 # 🎮 Hi, I'm Vlad
 
-🕹 Code like a game  
-🎮 Game mechanics, logic puzzles & experiments  
 🧪 Learning by doing, breaking and fixing
 
 ---
@@ -63,13 +61,12 @@
 
 ## 🧠 Skills Unlocked
 - 🎮 Game Logic & Mechanics
-- 🐍 Python GUI (Tkinter)
+- 🐍 Python / GUI (Tkinter)
 - 🌐 Frontend Basics & APIs
 - ⚙️ C++ Algorithms & Engines
 - 🐧 Linux Daemons & POSIX (threads, signals, FIFO)
 
 ---
 
-🏆 Status: Learning & experimenting  
-🧠 Interests: Games, logic, ML  
+🏆 Status: Learning & experimenting   
 🚀 Looking for: Internship / junior role
