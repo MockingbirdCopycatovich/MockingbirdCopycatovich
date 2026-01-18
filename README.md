@@ -46,6 +46,10 @@
 
 ## C/C++
 
+🗿 **[Sisyphus-Daemon](https://github.com/MockingbirdCopycatovich/Sisyphus-Daemon)**  
+⚙️ C · Linux · POSIX  
+🧵 Daemon · Threads · Signals · FIFO  
+✅ Available
 
 🧩 **[Sudoku-Puzzle-Solver](https://github.com/MockingbirdCopycatovich/Sudoku-Puzzle-Solver)**  
 ⚙️ C++  
@@ -62,6 +66,7 @@
 - 🐍 Python GUI (Tkinter)
 - 🌐 Frontend Basics & APIs
 - ⚙️ C++ Algorithms & Engines
+- 🐧 Linux Daemons & POSIX (threads, signals, FIFO)
 
 ---
 
