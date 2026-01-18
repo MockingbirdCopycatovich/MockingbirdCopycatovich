@@ -9,7 +9,7 @@
 ## 🎮 PROJECT FILTERS
 - [🐍 Python](#python)
 - [🌐 Web](#web)
-- [⚙️ C++](#cc)
+- [⚙️ C/C++](#cc)
 - [📦 View all repositories](https://github.com/MockingbirdCopycatovich?tab=repositories)
 
 ---
