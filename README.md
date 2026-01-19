@@ -20,6 +20,10 @@
 
 ## Python
 
+🚦 **[Smart-Queue-API](https://github.com/MockingbirdCopycatovich/Smart-Queue-API)**  
+🧠 Backend Service · FastAPI · PostgreSQL · Redis · Celery · Docker  
+🚧 In active development 
+
 🕹 **[Arcanoid](https://github.com/MockingbirdCopycatovich/Arcanoid)**  
 🎮 Python · Tkinter  
 ✅ Available   
