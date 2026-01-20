@@ -8,6 +8,7 @@
 - [🐍 Python](#python)
 - [🌐 Web](#web)
 - [⚙️ C/C++](#cc)
+- [🎮 Unreal Engine](#unreal-engine)
 - [📦 View all repositories](https://github.com/MockingbirdCopycatovich?tab=repositories)
 
 ---
@@ -60,6 +61,15 @@
 🌐 **[Spheres.io](https://github.com/MockingbirdCopycatovich/Spheres.io)**  
 ⚙️ C++ · TL-Engine  
 ✅ Available 
+
+---
+
+## Unreal Engine
+
+🗡 **[Souls-like game](https://github.com/MockingbirdCopycatovich/Unreal-Engine-Vertical-Slice-Game.git)**  
+🎮 Unreal Engine 5 · Blueprint  
+⚔️ Souls-like boss fight · Lock-on system · Dodge & stamina  
+🚧 In active development
 
 ---
 
