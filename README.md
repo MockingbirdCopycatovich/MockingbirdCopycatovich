@@ -16,6 +16,8 @@
 ![Python](https://img.shields.io/badge/Python-Back_End-blue)
 ![C++](https://img.shields.io/badge/C++-Core_Logic-orange)
 ![Web](https://img.shields.io/badge/Web-JS%2FHTML%2FCSS%2FAPI-green)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-UE5+-blueviolet)
+![GameDev](https://img.shields.io/badge/GameDev-Combat%20Systems-red)
 
 ---
 
