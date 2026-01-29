@@ -43,7 +43,7 @@
 🎮 Online multiplayer party game (Bunker-style survival)  
 🌐 React · TypeScript · Node.js · Socket.IO  
 ⚙️ Real-time lobby · Player roles · Card reveal · Voting logic  
-🚧 In active development
+🚧 In active development (Temporarily unavailable until I finish)
 
 💎 **[Treasure-Hunt-Web-app](https://github.com/MockingbirdCopycatovich/Treasure-Hunt-Web-app)**  
 🌐 HTML · CSS · JavaScript · API  
