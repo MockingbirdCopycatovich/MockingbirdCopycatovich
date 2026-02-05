@@ -70,6 +70,10 @@
 ⚙️ C++ · TL-Engine  
 ✅ Available 
 
+🚀 **[Hover-Racing(https://github.com/MockingbirdCopycatovich/Hover-Racing)**  
+⚙️ 3D Racing Game · TL-Engine · C++  
+🚧 Temporarily unavailable · Private until 04.04.2026
+
 ---
 
 ## Unreal Engine
