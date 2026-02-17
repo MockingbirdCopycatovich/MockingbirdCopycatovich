@@ -8,7 +8,6 @@
 - [🐍 Python](#python)
 - [🌐 Web](#web)
 - [⚙️ C/C++](#cc)
-- [🎮 Unreal Engine](#unreal-engine)
 - [📦 View all repositories](https://github.com/MockingbirdCopycatovich?tab=repositories)
 
 ---
@@ -16,8 +15,8 @@
 ![Python](https://img.shields.io/badge/Python-Back_End-blue)
 ![C++](https://img.shields.io/badge/C++-Core_Logic-orange)
 ![Web](https://img.shields.io/badge/Web-JS%2FHTML%2FCSS%2FAPI-green)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-UE5+-blueviolet)
-![GameDev](https://img.shields.io/badge/GameDev-Combat%20Systems-red)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-purple)
+![Data Science](https://img.shields.io/badge/Data-Modeling%20%26%20Prediction-brightgreen)
 
 ---
 
@@ -80,14 +79,6 @@
 ⚙️ 3D Racing Game · TL-Engine · C++  
 🚧 Temporarily unavailable · Private until 04.04.2026
 
----
-
-## Unreal Engine
-
-🗡 **[Souls-like game](https://github.com/MockingbirdCopycatovich/Unreal-Engine-Vertical-Slice-Game.git)**  
-🎮 Unreal Engine 5 · Blueprint  
-⚔️ Souls-like boss fight · Lock-on system · Dodge & stamina  
-🚧 In active development
 
 ---
 
@@ -97,6 +88,10 @@
 - 🌐 Frontend Basics & APIs
 - ⚙️ C++ Algorithms & Engines
 - 🐧 Linux Daemons & POSIX (threads, signals, FIFO)
+- 🤖 Machine Learning (classification, evaluation metrics)
+- 📊 Data preprocessing & feature engineering
+- 🚀 Model deployment with FastAPI
+
 
 ---
 
