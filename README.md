@@ -31,7 +31,7 @@
 🧠 Backend Service · FastAPI · Scikit-Learn · Logistic Regression / XGBoost · Pandas · Joblib  
 📊 Predicts customer churn based on Telco dataset  
 🧵 Users can choose which model’s prediction to trust (Logistic Regression vs XGBoost)  
-🚧 Temporarily unavailable · Private until 20.02.2026
+✅ Available
 
 🕹 **[Arcanoid](https://github.com/MockingbirdCopycatovich/Arcanoid)**  
 🎮 Python · Tkinter  
