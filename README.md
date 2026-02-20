@@ -22,7 +22,7 @@
 
 ## Python
 
-🚦 **[Credit-Risk-ML](https://github.com/MockingbirdCopycatovich/Credit-Risk-ML)**  
+💳 **[Credit-Risk-ML](https://github.com/MockingbirdCopycatovich/Credit-Risk-ML)**  
 🧠 Machine Learning · Feature Engineering · Cross-Validation · ROC-AUC · Scikit-Learn  
 📊 Predicts loan default probability (credit risk modeling)  
 ⚙️ Modular ML pipeline (data_loader → preprocessing → model training)  
