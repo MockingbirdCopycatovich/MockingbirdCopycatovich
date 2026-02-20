@@ -22,6 +22,13 @@
 
 ## Python
 
+🚦 **[Credit-Risk-ML](https://github.com/MockingbirdCopycatovich/Credit-Risk-ML)**  
+🧠 Machine Learning · Feature Engineering · Cross-Validation · ROC-AUC · Scikit-Learn  
+📊 Predicts loan default probability (credit risk modeling)  
+⚙️ Modular ML pipeline (data_loader → preprocessing → model training)  
+📈 Baseline Logistic Regression with 5-Fold Cross-Validation (ROC-AUC ≈ 0.748)  
+🚧 In active development
+
 🚦 **[Smart-Queue-API](https://github.com/MockingbirdCopycatovich/Smart-Queue-API)**  
 🧠 Backend Service · FastAPI · PostgreSQL · Redis · Celery · Docker  
 🚧 In active development 
