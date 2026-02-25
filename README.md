@@ -37,15 +37,12 @@
 🧠 Backend Service · FastAPI · Scikit-Learn · Logistic Regression / XGBoost · Pandas · Joblib  
 📊 Predicts customer churn based on Telco dataset  
 🧵 Users can choose which model’s prediction to trust (Logistic Regression vs XGBoost)  
-✅ Available
 
 🕹 **[Arcanoid](https://github.com/MockingbirdCopycatovich/Arcanoid)**  
 🎮 Python · Tkinter  
-✅ Available   
 
 🦖 **[Dino-Run](https://github.com/MockingbirdCopycatovich/Dino-Run)**  
 🎮 Python · Tkinter  
-✅ Available 
 
 ---
 
@@ -69,7 +66,6 @@
 
 🛒 **[UCLan-Shop](https://github.com/MockingbirdCopycatovich/UCLan-Shop)**  
 🌐 HTML · CSS · JavaScript  
-✅ Available
 
 ---
 
@@ -78,7 +74,6 @@
 🗿 **[Sisyphus-Daemon](https://github.com/MockingbirdCopycatovich/Sisyphus-Daemon)**  
 ⚙️ C · Linux · POSIX  
 🧵 Daemon · Threads · Signals · FIFO  
-✅ Available
 
 🧩 **[Sudoku-Puzzle-Solver](https://github.com/MockingbirdCopycatovich/Sudoku-Puzzle-Solver)**  
 ⚙️ C++  
@@ -86,7 +81,6 @@
 
 🌐 **[Spheres.io](https://github.com/MockingbirdCopycatovich/Spheres.io)**  
 ⚙️ C++ · TL-Engine  
-✅ Available 
 
 🚀 **[Hover-Racing](https://github.com/MockingbirdCopycatovich/Hover-Racing)**  
 ⚙️ 3D Racing Game · TL-Engine · C++  
