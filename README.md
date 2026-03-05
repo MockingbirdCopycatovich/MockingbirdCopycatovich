@@ -38,12 +38,6 @@
 📊 Predicts customer churn based on Telco dataset  
 🧵 Users can choose which model’s prediction to trust (Logistic Regression vs XGBoost)  
 
-🕹 **[Arcanoid](https://github.com/MockingbirdCopycatovich/Arcanoid)**  
-🎮 Python · Tkinter  
-
-🦖 **[Dino-Run](https://github.com/MockingbirdCopycatovich/Dino-Run)**  
-🎮 Python · Tkinter  
-
 ---
 
 ## Web
