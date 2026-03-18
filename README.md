@@ -42,12 +42,6 @@
 
 ## Web
 
-🛖 **[Bunker-Game](https://github.com/MockingbirdCopycatovich/Bunker-Game)**  
-🎮 Online multiplayer party game (Bunker-style survival)  
-🌐 React · TypeScript · Node.js · Socket.IO  
-⚙️ Real-time lobby · Player roles · Card reveal · Voting logic  
-🚧 In active development (Temporarily unavailable until I finish)
-
 🛒 **[UCLan-Shop-Extended](https://github.com/MockingbirdCopycatovich/UCLan-Shop-Extended)**  
 🌐 PHP · MySQL · Server-side Rendering · Sessions · Cookies  
 ⚙️ Full-stack upgrade of UCLan-Shop (database integration, authentication, reviews, cart & orders)  
