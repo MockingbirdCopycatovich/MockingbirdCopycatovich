@@ -50,7 +50,6 @@
 
 💎 **[Treasure-Hunt-Web-app](https://github.com/MockingbirdCopycatovich/Treasure-Hunt-Web-app)**  
 🌐 HTML · CSS · JavaScript · API  
-🚧 Temporarily unavailable · Private until 31.03.2026
 
 🛒 **[UCLan-Shop](https://github.com/MockingbirdCopycatovich/UCLan-Shop)**  
 🌐 HTML · CSS · JavaScript  
@@ -64,15 +63,14 @@
 🧵 Daemon · Threads · Signals · FIFO  
 
 🧩 **[Sudoku-Puzzle-Solver](https://github.com/MockingbirdCopycatovich/Sudoku-Puzzle-Solver)**  
-⚙️ C++  
-🚧 Temporarily unavailable · Private until 27.03.2026 
+⚙️ C++ 
 
 🌐 **[Spheres.io](https://github.com/MockingbirdCopycatovich/Spheres.io)**  
 ⚙️ C++ · TL-Engine  
 
 🚀 **[Hover-Racing](https://github.com/MockingbirdCopycatovich/Hover-Racing)**  
 ⚙️ 3D Racing Game · TL-Engine · C++  
-🚧 Temporarily unavailable · Private until 04.04.2026
+🚧 Temporarily unavailable
 
 
 ---
