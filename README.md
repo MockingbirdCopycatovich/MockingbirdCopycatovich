@@ -61,14 +61,10 @@
 
 ## 🧠 Skills Unlocked
 - 🎮 Game Logic & Mechanics
-- 🐍 Python / GUI (Tkinter)
+- 🐍 Python
 - 🌐 Frontend Basics & APIs
-- ⚙️ C++ Algorithms & Engines
-- 🐧 Linux Daemons & POSIX (threads, signals, FIFO)
-- 🤖 Machine Learning (classification, evaluation metrics)
-- 📊 Data preprocessing & feature engineering
-- 🚀 Model deployment with FastAPI
-
+- ⚙️ C++ Algorithms
+- 🐧 Linux Daemons
 
 ---
 
