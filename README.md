@@ -35,7 +35,6 @@
 🌐 PHP · MySQL · Server-side Rendering · Sessions · Cookies  
 ⚙️ Full-stack upgrade of UCLan-Shop (database integration, authentication, reviews, cart & orders)  
 🔐 Secure password hashing (bcrypt) · Prepared statements · Server-side validation  
-🚧 Private until 29.04.2026
 
 💎 **[Treasure-Hunt-Web-app](https://github.com/MockingbirdCopycatovich/Treasure-Hunt-Web-app)**  
 🌐 HTML · CSS · JavaScript · API  
