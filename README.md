@@ -29,11 +29,6 @@
 ⚡ ReAct-based workflow: analyzes sensor data, detects anomalies, correlates signals, and generates automated alerts  
 🧠 Built with MCP tools and async architecture for scalable agent-driven monitoring
 
-🚦 **[Customer-Churn-ML](https://github.com/MockingbirdCopycatovich/Customer-Churn-ML)**  
-🧠 Backend Service · FastAPI · Scikit-Learn · Logistic Regression / XGBoost · Pandas · Joblib  
-📊 Predicts customer churn based on Telco dataset  
-🧵 Users can choose which model’s prediction to trust (Logistic Regression vs XGBoost)  
-
 ---
 
 ## Web
@@ -44,10 +39,7 @@
 🔐 Secure password hashing (bcrypt) · Prepared statements · Server-side validation  
 
 💎 **[Treasure-Hunt-Web-app](https://github.com/MockingbirdCopycatovich/Treasure-Hunt-Web-app)**  
-🌐 HTML · CSS · JavaScript · API  
-
-🛒 **[UCLan-Shop](https://github.com/MockingbirdCopycatovich/UCLan-Shop)**  
-🌐 HTML · CSS · JavaScript  
+🌐 HTML · CSS · JavaScript · API    
 
 ---
 
